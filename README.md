@@ -1,2 +1,3 @@
 # Jogo
-Jogo feito na linguagem C#
+
+Jogo produzido por 3 alunos, na linguagem C#
